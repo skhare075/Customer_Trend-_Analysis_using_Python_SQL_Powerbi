@@ -13,16 +13,12 @@ Visualization & Insights (Power BI): Build an interactive dashboard that highlig
 
 Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
 
 ## How to Use This Project
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-   cd customer-trends-data-analysis-SQL-Python-PowerBI
-   ```
-2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+   
+3. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
     This file contains:
 
@@ -34,7 +30,7 @@ Report and Presentation: Write a clear project report summarizing your key findi
 
       - Connection to SQL Database
   
-3. **Load the data from Python notebook into MS SQL Server**
+4. **Load the data from Python notebook into MS SQL Server**
 
       - Create a database in SQL
 
@@ -44,7 +40,7 @@ Report and Presentation: Write a clear project report summarizing your key findi
   
       - Answer Business Questions using SQL Queries 
       
-4. **Connect the SQL Database to Power BI**
+5. **Connect the SQL Database to Power BI**
 
       - Open **customer_behavior_dashboard.pbix**
    
