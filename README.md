@@ -1,4 +1,4 @@
-# Customer Behavior Data Analyst Portfolio Project
+# Customer Behavior Analysis Project
 The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 
