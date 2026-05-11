@@ -34,3 +34,4 @@ You are tasked with analyzing the company’s consumer behavior dataset to answe
 - We performed structured analysis in PostgreSQL to answer key business questions mentioned in the report.
 
 ## Dashboard in Powerbi:
+![Coffee Sales Dashboard](https://github.com/skhare075/Customer_Trend-_Analysis_using_Python_SQL_Powerbi/blob/main/Customer%20Sjopping%20Behaviour%20powerbi.png)
